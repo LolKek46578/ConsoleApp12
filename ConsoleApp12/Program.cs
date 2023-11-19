@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Helo, Word!");
+Console.WriteLine("Hllo, World!");
+Console.WriteLine("Hello, Wld!");
